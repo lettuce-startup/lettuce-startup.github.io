@@ -815,3 +815,7 @@ span.projectDetails{
     width: 412px;
     height: 309px;
 }
+
+.social-footter a{
+  color: white;
+}
