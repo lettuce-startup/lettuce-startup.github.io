@@ -204,6 +204,15 @@ h1.underline,h2.underline,h3.underline,h4.underline {
   background: url(../images/underline-headline.png) bottom center no-repeat;
   padding-bottom: 20px;
 }
+.underline-black{
+  margin-top:100px;}
+  
+/* underline headings with image*/
+h1.underline-black,h2.underline-black,h3.underline-black,h4.underline-black {
+  background: url(../images/underline-headline-black.png) bottom center no-repeat;
+  padding-bottom: 20px;
+}
+
 
 
 /*********************************************
